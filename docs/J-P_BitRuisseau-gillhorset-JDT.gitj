@@ -1,0 +1,61 @@
+{
+  "projectName": "P_BitRuisseau",
+  "me": "Gillian-LHorset",
+  "journalStartDate": null,
+  "columns": [
+    {
+      "label": "Date",
+      "source": "date",
+      "format": "date",
+      "field": "date"
+    },
+    {
+      "label": "Tâche",
+      "source": "name",
+      "field": "name"
+    },
+    {
+      "label": "Description",
+      "source": "description",
+      "field": "description"
+    },
+    {
+      "label": "Durée",
+      "source": "duration",
+      "format": "duration",
+      "field": "duration"
+    },
+    {
+      "label": "Statut",
+      "source": "status",
+      "format": "badge",
+      "field": "status"
+    },
+    {
+      "label": "Auteur",
+      "source": "author"
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "a13d5bc7-2f7a-45ee-9a17-78e1e0504dd2",
+      "type": "commitless",
+      "author": "Gillian-LHorset",
+      "date": "2026-11-18T11:20:00.000Z",
+      "name": "Absence",
+      "description": "",
+      "duration": 180,
+      "status": ""
+    },
+    {
+      "id": "63f77b4f-6f8b-4061-aaf4-392e586ad60b",
+      "type": "commitless",
+      "author": "Gillian-LHorset",
+      "date": "2026-11-25T14:55:00.000Z",
+      "name": "Renseignement",
+      "description": "Discussion avec mes camarades pour être sûr d'avoir cerné le projet",
+      "duration": 30,
+      "status": ""
+    }
+  ]
+}
