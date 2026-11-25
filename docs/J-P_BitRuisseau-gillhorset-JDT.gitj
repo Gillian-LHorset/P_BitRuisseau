@@ -56,6 +56,16 @@
       "description": "Discussion avec mes camarades pour être sûr d'avoir cerné le projet",
       "duration": 30,
       "status": ""
+    },
+    {
+      "id": "dde47800-11f4-4f77-a69a-7c662b31ae74",
+      "type": "commitless",
+      "author": "Gillian-LHorset",
+      "date": "2026-11-25T15:34:00.000Z",
+      "name": "UserStories",
+      "description": "Démarrage de l'app",
+      "duration": 10,
+      "status": "WIP"
     }
   ]
 }
